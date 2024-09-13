@@ -25,25 +25,37 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![Screenshot 2024-09-03 125853](https://github.com/user-attachments/assets/add900d6-f4c3-40a2-8baf-55f32c7bc501)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step, I submitted a ticket on behalf of a user:
+
+  - I logged in as a user that I created earlier in the lab
+  - I selected the ideal level of priority and gave a clear statement regarding the issue
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  ![Screenshot 2024-09-03 130838](https://github.com/user-attachments/assets/04a36c61-f7a0-4d15-bf72-218e3284ab60)
+
+![Screenshot 2024-09-03 130922](https://github.com/user-attachments/assets/ab3947a0-d157-4c57-9523-0a1ba60c9c0e)
+
+![Screenshot 2024-09-03 131647](https://github.com/user-attachments/assets/8117ae49-2237-43b6-878b-8f74bd1f6369)
+
+![Screenshot 2024-09-03 131853](https://github.com/user-attachments/assets/d0afc70e-0dd4-44f0-a6fb-d65942454ad3)
+
+![Screenshot 2024-09-03 132322](https://github.com/user-attachments/assets/33601026-8bf3-45fd-8b74-dda8ba77962a)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The images show the following steps:
+
+  - Assigned the ticket to the appropriate team
+  - SLA is updated correctly based on the summary submitted by the user
+  - Priority is assigned
+  - Review the ask and respond with a resolution to resolve the ticket
 </p>
-<br />
+
